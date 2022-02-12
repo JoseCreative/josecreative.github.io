@@ -1,0 +1,1 @@
+<a><embed src="/assets/configs/places.txt"></a>
